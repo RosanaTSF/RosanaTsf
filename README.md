@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=F73EDA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rosana+%F0%9F%91%8B;Computer+Engineering+Student;Full+Stack+Development+Intern+at+Globo;Always+Learning+New+Things+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=F73EDA&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile!+%F0%9F%90%B1)](https://git.io/typing-svg)
+
 
 Hello! I'm a Computer Engineering student and a Full Stack Development Intern at Globo.
 
