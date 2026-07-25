@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F73EDA&lines=Hello+World!)](https://git.io/typing-svg)
 
-Hello, I'm studying Computer Engineering, and it's my second degree. 
-In my first one, I graduated in Law and worked as a lawyer. 
-I really enjoy the legal field, but I fell in love with technology. 
-Besides college, I take extra courses and study English.
+Hello! I'm a Computer Engineering student and a Full Stack Development Intern at Globo. I'm passionate about software development and enjoy learning new technologies, solving problems, and building solutions. Besides college, I continuously expand my technical skills through online courses and I'm also improving my English.
 
 <div align="center">
  
