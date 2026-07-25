@@ -5,8 +5,6 @@ Hello! I'm a Computer Engineering student and a Full Stack Development Intern at
 <div align="center">
  
 ![image](https://user-images.githubusercontent.com/101351309/167425854-45415c33-abe6-40b7-ac9a-a5ebd0e43426.png)
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosanaTSF&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
