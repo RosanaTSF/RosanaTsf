@@ -10,7 +10,6 @@ Currently, I work with JavaScript, Python, Google Ad Manager, BigQuery, and clou
 I'm also continuously improving my English and preparing for Google Cloud certifications.
 
 ---
-
 ## Tech Stack
 
 <div align="center">
@@ -27,18 +26,22 @@ I'm also continuously improving my English and preparing for Google Cloud certif
 </div>
 
 ---
-
-## 📚 Currently Learning
+## Currently Learning
 
 - ☁️ Google Cloud
 - 🏗️ Software Architecture
-- 🧩 Backend Development
+- 🧩 Full Stack Development
 - 📊 Observability
 - 🤖 AI & Automation
 - 📺 AdTech
 
 ---
+## Other Technologies
 
+- ☕ Java (Spring Boot, Swagger, IAM)
+- 🖥️ C / Shell Script
+
+---
 ## GitHub Activity
 
 <div align="center">
