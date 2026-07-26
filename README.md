@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=F73EDA&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile!+%F0%9F%90%B1)](https://git.io/typing-svg)
 
-<div align="center">
+<div>
 
 I'm passionate about software development and continuously learning new technologies.<br>
 I'm always looking for opportunities to grow as a developer.
