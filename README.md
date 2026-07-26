@@ -1,16 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=F73EDA&center=true&vCenter=true&width=550&lines=Welcome+to+my+profile!+%F0%9F%90%B1)](https://git.io/typing-svg)
 
+<div align="center">
 
-Hello! I'm a Computer Engineering student and a Full Stack Development Intern at Globo.
+I'm passionate about software development and continuously learning new technologies.<br>
+I'm always looking for opportunities to grow as a developer.
 
-I'm passionate about software development and enjoy building scalable solutions, automating processes, and continuously learning new technologies.
+</div>
 
-Currently, I work with JavaScript, Python, Google Ad Manager, BigQuery, and cloud technologies while improving my backend development skills.
+<div>
 
-I'm also continuously improving my English and preparing for Google Cloud certifications.
-
----
-## Tech Stack
 
 <div align="center">
 
