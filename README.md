@@ -68,8 +68,7 @@ I'm also continuously improving my English and preparing for Google Cloud certif
 
 <div align="center">
 
-<img src="URL_DO_URSO" width="220">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=F73EDA&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+%F0%9F%90%B1)](https://git.io/typing-svg)
 
- Thanks for visiting! 🐈 
 
 </div>
